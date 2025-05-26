@@ -40,13 +40,13 @@ Framework modular, escalável e seguro para automação de coleta, processamento
 ---
 
 > Console Results
-
+'''
 [2025-05-25 21:44:51.848000] ✔️ Data fetched successfully
 [2025-05-25 21:44:51.919000] 🔧 Processing data...
 [2025-05-25 21:44:51.921000] ✔️ Data processed successfully.
 [2025-05-25 21:44:51.923000] 📊 Analyzing 10 records...
 🔍 Status distribution:
-   • None: 10 occurrences
+   • None: 10 occurrences'''
 ---
 ## 📄 Licença
 MIT License 
