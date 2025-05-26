@@ -15,9 +15,6 @@ Framework modular, escalável e seguro para automação de coleta, processamento
 - ♻️ Estrutura escalável, orientada a objetos e clean code
 - 🔒 Pronto para integração com pipelines, segurança e cloud
 
-## 🏗️ Arquitetura
-![Architecture Diagram](docs/architecture-diagram.png)
-
 ## 📦 Instalação
 
 - git clone https://github.com/bruu-carmo/python-automation-framework.git
@@ -33,15 +30,10 @@ Framework modular, escalável e seguro para automação de coleta, processamento
 -pytest 
 
 ## 🛠️ Stack
-Python
-
-Requests
-
-Pytest
-
-Logging
-
-Draw.io (Arquitetura)
+- Python
+- Requests
+- Pytest
+- Logging
 
 ## 🔥 Build. Automate. Hack. Repeat.
 
